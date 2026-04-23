@@ -1,0 +1,1 @@
+# An-lisis-de-Churn-y-Segmentaci-n-RFM-KredMex-Fintech
